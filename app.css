@@ -1,0 +1,118 @@
+body{
+    background-image: url('moroccan-flower.png');
+}
+
+h1{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    border: solid 8px rgb(255, 246, 121);
+    text-align: center;
+    background-color:rgb(185, 118, 211); 
+}
+
+#LeftNav{
+    width: 500px;
+    border: solid rgb(247, 188, 188);
+    text-align: center;
+    background-color: rgb(241, 237, 237);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+#RightNav{
+    width: 600 px;
+    border: solid rgb(247, 188, 188);
+    text-align: left;
+    background-color: rgb(241, 237, 237);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+legend{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: rgb(151, 80, 95);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+label{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(29, 122, 184);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+tr{
+    color: green;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+li{
+    color: rgb(228, 160, 83);
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+header{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10 px;
+    border: solid 8px rgb(255, 246, 121);
+    text-align: center;
+    background-color:rgb(185, 118, 211); 
+}
+
+#LeftNav1{
+    width: 800px;
+    border: solid rgb(182, 158, 224);
+    text-align: left;
+    background-color: rgb(247, 216, 233);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+#RightNav1{
+    width: 800px;
+    border: solid rgb(182, 158, 224);
+    text-align: right;
+    background-color: rgb(247, 216, 233);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+Footer{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    border: solid 8px rgb(255, 246, 121);
+    background-color: rgb(185, 118, 211);
+}
+
+#Times{
+    text-align: left;
+    width: 900 px;
+    height: 300 px;
+    border-radius: inherit;
+    margin-left: auto;
+    margin-right: auto;
+    margin-block-start: 0px;
+    margin-bottom: 0 px;
+    border: solid black;
+    background-color: #ddc8f0;
+    padding: 15px;
+}
